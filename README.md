@@ -1,2 +1,2 @@
 # YouTubeClone
-YouTube clone based on the content from Neetcode
+YouTube clone using the following tech stack
